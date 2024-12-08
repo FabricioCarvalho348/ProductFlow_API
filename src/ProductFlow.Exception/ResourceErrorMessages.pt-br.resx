@@ -1,0 +1,56 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PRICE_MUST_BE_GREATER_THAN_ZERO" xml:space="preserve">
+        <value>O Preço deve ser maior que zero.</value>
+    </data>
+    <data name="CATEGORY_TYPE_NOT_SUPPORTED" xml:space="preserve">
+        <value>Categoria não suportada.</value>
+    </data>
+    <data name="EMAIL_ALREADY_REGISTERED" xml:space="preserve">
+        <value>Esse e-mail já está sendo usado.</value>
+    </data>
+    <data name="EMAIL_EMPTY" xml:space="preserve">
+        <value>O e-mail não pode estar vazio.</value>
+    </data>
+    <data name="EMAIL_INVALID" xml:space="preserve">
+        <value>O e-mail é inválido.</value>
+    </data>
+    <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
+        <value>E-mail e/ou senha inválidos.</value>
+    </data>
+    <data name="INVALID_PASSWORD" xml:space="preserve">
+        <value>Sua senha deve ter no mínimo 8 caracteres, contendo pelo menos uma letra maiúscula, uma letra minúscula, um número e um caractere especial (por exemplo, !, ?, *, .).</value>
+    </data>
+    <data name="NAME_EMPTY" xml:space="preserve">
+        <value>O nome não pode estar vazio.</value>
+    </data>
+    <data name="NAME_REQUIRED" xml:space="preserve">
+        <value>O nome é obrigatório.</value>
+    </data>
+    <data name="PASSWORD_DIFFERENT_CURRENT_PASSWORD" xml:space="preserve">
+        <value>A senha inserida é diferente da senha atual.</value>
+    </data>
+    <data name="PRODUCT_NOT_FOUND" xml:space="preserve">
+        <value>Produto não encontrado.</value>
+    </data>
+    <data name="STATUS_INVALID" xml:space="preserve">
+        <value>O status não é válido.</value>
+    </data>
+    <data name="UNKNOWN_VALUE" xml:space="preserve">
+        <value>Erro desconhecido.</value>
+    </data>
+    <data name="QUANTITY_STOCK_MUST_BE_GREATER_THAN_OR_EQUAL_ZERO" xml:space="preserve">
+        <value>quantidade em estoque deve ser maior ou igual a zero.</value>
+    </data>
+</root>
